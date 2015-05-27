@@ -57,18 +57,18 @@ homebrew_cask_apps:
   - bartender
   - font-sauce-code-powerline
   - kindle-previewer
-  - quicklook-json	
+  - quicklook-json
   - java
   - iterm2
   - google-chrome
-  - quicklook-csv	
+  - quicklook-csv
   - dropbox
   - firefox
   - flux
   - calibre
   - karabiner
   - licecap
-  - little-snitch	
+  - little-snitch
   - macvim
   - menumeters
   - nvalt
