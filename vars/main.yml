@@ -55,7 +55,6 @@ homebrew_cask_apps:
   - alfred
   - asepsis
   - bartender
-  - font-sauce-code-powerline
   - kindle-previewer
   - quicklook-json
   - java
