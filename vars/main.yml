@@ -52,27 +52,46 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - adium
-  - bettertouchtool
+  - alfred
+  - asepsis
+  - bartender
+  - font-sauce-code-powerline
+  - kindle-previewer
+  - quicklook-json	
+  - java
+  - iterm2
   - google-chrome
+  - quicklook-csv	
   - dropbox
   - firefox
-  - handbrake
+  - flux
+  - calibre
   - karabiner
   - licecap
+  - little-snitch	
   - macvim
   - menumeters
   - nvalt
   - sequel-pro
+  - parallels-desktop
   - skype
   - skitch
   - seil
   - sublime-text # Note - Sublime Text 2 only, at this time...
   - textmate
   - timemachineeditor
+  - teamviewer
   - tower
   - transmit
   - vagrant
   - vagrant-manager
   - vlc
   - virtualbox
+  - phpstorm
+  - hipchat
+  - slack
+  - istat-menus
+  - python
+  - qlstephen
+  - qlprettypatch
+  - quicknfo
